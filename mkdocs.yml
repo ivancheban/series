@@ -1,0 +1,54 @@
+site_name: TV Series
+site_url: https://ivancheban.github.io/series/
+nav:
+    - Introduction: 'index.md'
+    - Favorites:
+        - 'favorites.md'
+    - Watched:
+        - 'watched.md'
+    - Watching:
+        - 'watching.md'
+    - Want to watch:
+        - 'wanna-watch.md'
+    - About:
+        - 'About me': 'about.md'
+theme:
+  features:
+    - navigation.footer
+    - navigation.tabs
+    - navigation.tabs.sticky
+  name: material
+  logo: img/logo.svg
+  favicon: img/favicon.ico
+  palette: 
+    scheme: default
+  
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ivancheban
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/ivan-cheban-a24b576
+  generator: false
+  analytics:
+    provider: google
+    property: G-BQPNJD39M1
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+copyright: Copyright &copy; 2024 Ivan Cheban 
+
+
