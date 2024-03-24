@@ -35,7 +35,7 @@ extra:
   generator: false
   analytics:
     provider: google
-    property: G-BQPNJD39M1
+    property: G-YECCK9Z9WD
 
 markdown_extensions:
   - attr_list
