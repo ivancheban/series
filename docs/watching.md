@@ -1,17 +1,17 @@
 # TV Series I am watching
 
-## [Game of Thrones (2011)](https://en.wikipedia.org/wiki/Game_of_Thrones)
+## [The Sopranos (1999)](https://en.wikipedia.org/wiki/The_Sopranos)
 
-![Game of Thrones](img/game-of-thrones.jpg){: style="height:430px;"}
+![Sopranos](img/sopranos.jpg){: style="height:430px;"}
 
-**Creator:** George R. R. Martin
+**Creator:** David Chase
 
-**Director:** David Benioff
+**Director:** David Chase
 
-**No. of seasons:** 8
+**No. of seasons:** 6
 
-**No. of episodes:** 73
+**No. of episodes:** 86
 
 **Trailer:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KPLWWIOCOOQ?si=72pnMdoRn_0brZK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q8cBFvpqmH0?si=juVUzDfvoe2ibcKT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
